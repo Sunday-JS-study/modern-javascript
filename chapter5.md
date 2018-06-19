@@ -26,4 +26,4 @@ const {type, name} = node; // ERROR!
 
 Option의 사용성
 
-각 언어의 lint와 클린코드 참조
+각 언어의 lint에 따라 달라짐
