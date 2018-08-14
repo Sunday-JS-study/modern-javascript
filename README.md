@@ -13,7 +13,7 @@
 - 한정(https://github.com/jung-han, hanjungv@gmail.com)
 - 이강호(https://github.com/cannalee90, cannalee90@gmail.com)
 - 손아람(https://github.com/ramason94, )
-- 강동주(https://github.com/djohnkang, djohnkang@hotmail.com)
+- 오창희(https://github.com/5chang2, och8808@gmail.com)
 - 박청호
 
 ### 책
